@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+But where, oh where, is LA BOHEME??
 
-### More Information
+Here is my game, which is about terrorism (but it's a dance off!)
 
-A place to include any other types of information that you'd like to include about yourself.
+<iframe allowtransparency="true" width="630.5" height="522.6" src="//scratch.mit.edu/projects/embed/229303652/?autostart=false" frameborder="0" allowfullscreen>
+</iframe>
+    
+Look! It's music I like.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<iframe src="https://open.spotify.com/embed/user/udvhbu5ewe5t7cvt9a6z74uev/playlist/6aDf8v5o4ELbxWd0TFSZFN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
