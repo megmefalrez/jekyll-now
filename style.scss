@@ -44,6 +44,9 @@ container {
   border-top: 1px solid #2bfff7;
 }
 
+container:first-child {
+  border-radius: 50px;	
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Titillium Web', sans-serif;
