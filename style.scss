@@ -18,17 +18,31 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background-image: url("https://www.ironmarines.com/images/main_bg.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: top; 
+  background-size: 1247px 701px;
+  color: #ffffff;
+    font-family: 'Titillium Web', sans-serif;
+        text-shadow: 4px 4px 4px #101138;
 }
+
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 850px;
   padding: 0 10px;
   width: 100%;
+  background-image: url("https://www.ironmarines.com/images/deco_grid.png");
+  background-repeat: repeat;
+  background-position: center;
+  border-radius: 25px;
+  padding: 20px; 
+  border-bottom: 1px solid #2bfff7;
+  border-top: 1px solid #2bfff7;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
