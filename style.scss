@@ -245,9 +245,10 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #18eaf2;
     text-align: right;
-    font-weight: 300;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
     letter-spacing: 1px;
 
     @include mobile {
