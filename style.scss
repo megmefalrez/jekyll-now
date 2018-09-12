@@ -45,10 +45,10 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
-
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #00a2da;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -58,12 +58,17 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+
 h1 {
   font-size: 30px;
+  color: #18eaf2;
   a {
-    color: inherit;
+    font-family: 'Titillium Web';
+    font-weight: 900;
+    color: #18eaf2;
   }
 }
+
 
 h2 {
   font-size: 24px;
