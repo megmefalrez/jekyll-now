@@ -21,12 +21,12 @@ body {
   background-image: url("https://www.ironmarines.com/images/main_bg.jpg");
   background-repeat: repeat;
   background-attachment: fixed;
-  background-position: top; 
+  background-position: center; 
   background-size: 1247px 701px;
   color: #ffffff;
     font-family: 'Titillium Web', sans-serif;
         text-shadow: 4px 4px 4px #101138;
-  font-size: 13px;
+  font-size: 20px;
 }
 
 
@@ -222,8 +222,8 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
+  color: #ffffff;
+  font-size: 17px;
 
   @include mobile {
     margin: 3px 0;
