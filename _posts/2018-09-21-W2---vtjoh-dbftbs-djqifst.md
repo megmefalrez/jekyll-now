@@ -11,9 +11,7 @@ Dsrov fhrmt hkivzwhsvvgh gl nzpv zm Zgyzhs Xksvi wvxlwvi - zmw vmxlwvi - nzb yv 
 Here's how it went in a few quotes.
 
 "WHAT AM I MEANT TO DO!?"
-
 “HOW DID YOU TYPE THE ALPHABETS SO QUICKLY?”
-
 "WHAT'S THAT THING WE'RE SUPPOSED TO ADD???"
 
 I was aware that Spreadsheets and Excel had the ability to code stuff in them, but what I didn't realise was how painful they were to code. It started off pretty simple: you had your "concatenate" command, which - well - concatenated stuff of your choice. Then “vlookup” was introduced, among with other functions of Spreadsheets.
