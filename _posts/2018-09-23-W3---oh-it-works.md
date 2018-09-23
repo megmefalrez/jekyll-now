@@ -20,3 +20,4 @@ I'm still trying to work out how to get it to work, but eventually I should work
 
 Hopefully.
 
+(Again, you can click <a href="https://megmefalrez.github.io/about/">here</a> to go to my about section. If you scroll for a bit you'll see the spreadsheet and a link to it.)
