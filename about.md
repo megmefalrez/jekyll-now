@@ -17,6 +17,6 @@ Look! It's music I like.
 
 Here's my Caesar Cypher document I've been working on the first term in Computer Science.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSX-vwS4g__r09-ALnfNOdNVSpQBC5EQBRwJ4n0FieFlDGwx2dOonnt3RKJSZOn4gPXZTGWVJelKlxZ/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSX-vwS4g__r09-ALnfNOdNVSpQBC5EQBRwJ4n0FieFlDGwx2dOonnt3RKJSZOn4gPXZTGWVJelKlxZ/pubhtml?widget=true&amp;headers=false" width="630.5" height="522.6"></iframe>
 
 You can also click <a href="https://docs.google.com/spreadsheets/d/17AlhC5dECzZA0Uh59Jy31lHdPGFtEgCWewkZVJVDziw/edit?usp=sharing">here</a> to make a copy and try it yourself! (But please don't claim it as your own.)
