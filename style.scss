@@ -309,3 +309,25 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+// Sliding background of Sagan-1
+
+.wrapper {
+  overflow: hidden;
+}
+
+.sliding-background {
+  background: url("https://www.ironmarines.com/images/planet_big.png") repeat-x;
+  height: 560px;
+  width: 5076px;
+  animation: slide 60s linear infinite;
+}
+
+@keyframes slide{
+  0%{
+    transform: translate3d(0, 0, 0);
+  }
+  100%{
+    transform: translate3d(-1692px, 0, 0);
+  }
+}
