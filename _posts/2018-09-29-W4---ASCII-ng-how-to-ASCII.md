@@ -1,8 +1,8 @@
 ---
-title: W4 - ASCII-ng about how to ASCII
+title: W4 - ASCII-ng how to ASCII
 layout: post
 author: luke.corey
-permalink: /w4---ascii-ng-about-how-to-ascii/
+permalink: /w4---ascii-ng-how-to-ascii/
 source-id: 1odqqFCIgcNgJB0GGW0dQzHqscGjPMRwfu_qeN2uGWJc
 published: true
 ---
@@ -10,7 +10,7 @@ ASCII (the American Standard Code for Information Interchange) is a code - rarel
 
 The first thing to know when making it is that your best friends are =CODE() and =CHAR(): CODE will convert it from Plaintext to ASCII, and CHAR does it the other way round. What isn't as easy is making the code either detect it in ASCII or Plaintext and convert it, or - in the first place - making your code a two-way converter.
 
-I'm not going to bore you with the details of how I made it; if you want to see what I did you can go to my about section, scroll down, and click on the ASCIIData sheet, which’ll show the code I used to make it work.
+I'm not going to bore you with the details of how I made it; if you want to see what I did you can go to <a href="https://megmefalrez.github.io/about/">my about section</a>, scroll down, and click on the ASCIIData sheet, which’ll show the code I used to make it work.
 
 One thing that throws me off is that the code is only in one line, and not divided into different lines. This is especially annoying with if statements, because it feels harder to read them.
 
