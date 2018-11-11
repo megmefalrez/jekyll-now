@@ -23,8 +23,8 @@ You can also click <a href="https://docs.google.com/spreadsheets/d/17AlhC5dECzZA
 
 Here's my 9n't childhood, a drunken fight against an ambulance.
 
-<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/247053365/?autostart=false" frameborder="0" allowfullscreen></iframe>
+<iframe allowtransparency="true"  width="630.5" height="522.6" src="//scratch.mit.edu/projects/embed/247053365/?autostart=false" frameborder="0" allowfullscreen></iframe>
 
 Here's my Disco At The spreadsheet, for calculating how much dough you get from discos, and for letting you maximise how much dough you do get.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAbd9nnkORA-0CWgK_dvZEq29l4yDWuZniK9XXx4ilmRLcPbh11hEigx9SG4hbktw0E7k1SiHhikT6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAbd9nnkORA-0CWgK_dvZEq29l4yDWuZniK9XXx4ilmRLcPbh11hEigx9SG4hbktw0E7k1SiHhikT6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="630.5" height="522.6"></iframe>
