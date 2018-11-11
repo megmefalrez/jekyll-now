@@ -17,39 +17,28 @@ Ok, good! Where was I? Oh yeah: the point of a disco, from my opinion, is to get
 Let's just put that rule to the test, so you understand what to do if you want to make profit by a disco.
 
 **Question 1**: which DJ should you hire?
-
 A: The one everyone likes, regardless of cost
-
 B: A really cheap one
-
 C: What do you mean by "DJ"? They're not profitable!
 
 **Question 2**: how much should you sell your tickets?
-
 A: Make them free! People can donate if they wish.
-
 B: Like, £10?
-
 C: Enough so you get 250% profit
 
 **Question 3**: how do you calculate how much profit you get from this disco?
-
 A: Hire someone to do it for you!
-
 B: Pshh, I'm sure it’s fine!
-
 C: Google Spreadsheets, of course!
 
-**Answers**:
+
+**Answers**:
 
 Give yourself 1 point for each time you answered B, and give yourself 2 points for each time you answered C. Take away 1 point if you answered A for any of them.
 
 How did you do?
-
 **-3 to 0**: oof. You clearly aren't in the right mindeset.
-
 **1 to 4**: ehh, ok. You could do a little better.
-
 **5 to 6**: that's the spirit!
 
 Of course, when you need to calculate profits you HAVE to use Excel or Spreadsheets: it's not that hard, and you can customise it without having to ask professionals to do it.
