@@ -33,10 +33,10 @@ B: Pshh, I'm sure it’s fine! <br />
 C: Google Spreadsheets, of course!
 
 
-**Answers**:
+**Answers**: <br />
 Give yourself 1 point for each time you answered B, and give yourself 2 points for each time you answered C. Take away 1 point if you answered A for any of them.
 
-How did you do?
+How did you do? <br />
 **-3 to 0**: oof. You clearly aren't in the right mindeset. <br />
 **1 to 4**: ehh, ok. You could do a little better. <br />
 **5 to 6**: that's the spirit!
