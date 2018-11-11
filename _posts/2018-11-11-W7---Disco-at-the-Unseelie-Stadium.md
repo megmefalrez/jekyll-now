@@ -45,5 +45,5 @@ Of course, when you need to calculate profits you HAVE to use Excel or Spreadshe
 
 In the lesson, I think I did pretty well: I actually didn't get distracted for the first time in Computing this year, which is a big plus. What could I have done to improve? Well… except for being able to snap my fingers and there’s my work done, I don’t really think doing it faster would’ve helped that much. If anything, I would’ve been a bit more lazy, so I think the speed I worked at was completely fine.
 
-In my about section, I've embedded the spreadsheet, but you can also click the link here if you want to make a copy and mess around with it (but please don’t copy it because that is not very family friendly).
+In <a href="https://megmefalrez.github.io/about/">my about section</a>, I've embedded the spreadsheet, but you can also click the link <a href="https://docs.google.com/spreadsheets/d/1_EFdnECAxZ_u5sYnZaE8iZAENG8NPMJy1lykki8LJ1c/edit?usp=sharing">here</a> if you want to make a copy and mess around with it (but please don’t copy it because that is not very family friendly).
 
