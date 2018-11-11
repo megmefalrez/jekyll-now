@@ -6,7 +6,7 @@ permalink: /w7---disco-at-the-unseelie-stadium/
 source-id: 1QmMyDMQhjro6XGgdcVdOoNbTIPAlTx181P6wGxgyriw
 published: true
 ---
-The point of a disco - from my opinion - is to-
+The point of a disco, from my opinion, is to-
 
 Actually first, let's just set the vibe..
 
