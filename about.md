@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+'''
 But where, oh where, is LA BOHEME??
 
 Here is my game, which is about terrorism (but it's a dance off!)
@@ -28,3 +28,4 @@ Here's my 9n't childhood, a drunken fight against an ambulance.
 Here's my Disco At The spreadsheet, for calculating how much dough you get from discos, and for letting you maximise how much dough you do get.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAbd9nnkORA-0CWgK_dvZEq29l4yDWuZniK9XXx4ilmRLcPbh11hEigx9SG4hbktw0E7k1SiHhikT6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="630.5" height="522.6"></iframe>
+'''
