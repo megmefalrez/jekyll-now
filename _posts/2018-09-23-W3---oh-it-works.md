@@ -4,7 +4,7 @@ layout: post
 author: luke.corey
 permalink: /w3---oh-it-works/
 source-id: 1YWxHs6G0vL2OILQW0jCBH__hsY77WFrnRG4ZIoMFnM0
-published: true
+published: false
 ---
 As the title suggests - the Caesar Cipher (yes I am still using American terminology) works! While I did have to unplug Granny, it boasts shifts 1-25, along with not breaking when you put spaces in. My end goal is to have one sheet which has the thing people want to see (being the input, the parameter(s) and the output), and other sheets (named data sheets (as of when I'm writing this the one which does the hard work for the Caesar Cipher is called caesarData)) having all the other stuff.
 
