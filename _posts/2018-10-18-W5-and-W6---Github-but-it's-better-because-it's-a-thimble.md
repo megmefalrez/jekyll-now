@@ -4,7 +4,7 @@ layout: post
 author: luke.corey
 permalink: /w5-and-w6---github-but-it's-better-because-it's-a-thimble/
 source-id: 1y_FPv8yFDYYaaGp_P6wGhxoUQdOpet2uKOr2Wy5Lh6Y
-published: true
+published: false
 ---
 What really (emphasis on really) boils my soil is the lack of user-friendly interfaces Github has. The objective of having blogs - from my POV - was to let us reflect on our lesson, as well as letting us expand on our coding skills, especially in CSS.
 
@@ -34,7 +34,8 @@ Uses live preview so then realises the lack of a semi-colon.
 
 Website looks a bit uckers
 
-**After**:Website does no longer look uckers (however I haven't yet made posts there (or even made links))
+**After**:
+Website does no longer look uckers (however I haven't yet made posts there (or even made links))
 
 Point is: Thimble is gud.
 
