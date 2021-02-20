@@ -4,7 +4,7 @@ layout: post
 author: luke.corey
 permalink: /w4---ascii-ng-how-to-ascii/
 source-id: 1odqqFCIgcNgJB0GGW0dQzHqscGjPMRwfu_qeN2uGWJc
-published: true
+published: false
 ---
 ASCII (the American Standard Code for Information Interchange) is a code - rarely used now - which corresponds characters into numbers. sO lEt'S mAKe a CoNveRsiON tHiNg oN gOoGlE sHeEts1!!1!!
 
